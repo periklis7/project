@@ -1,0 +1,271 @@
+#logo {
+width: 225px;
+height: 100px;
+
+}
+
+
+#table1 td{
+border:1px solid white;
+background-color:orange;
+width:25%; 
+text-align: center;
+}
+
+body {
+
+background-image: url("back1.jpg");
+}
+
+#par1{
+	text-align:justify;
+	font-family:arial;
+	font-size:large;
+	padding-bottom:200px;
+}
+
+#s1{
+	text-align:center;
+	font-family:arial;
+	font-size:x-large;
+	padding-left:400px;
+}
+
+
+
+
+
+
+#form1{
+	padding-left:300px;
+}
+
+#logia1{
+	margin-left:250px;
+	margin-top:20px;
+}
+
+#body1{
+	background-image: url("orange.jpg");
+}
+
+#form2{
+	padding-left:400px;
+}
+
+
+#logia2{
+	margin-left:300px;
+	margin-top:-50px;
+	
+}
+
+#logia3{
+	margin-left:250px;
+	margin-top:-50px;
+}
+
+
+#form3{
+	padding-left:300px;
+}
+
+
+
+
+#a1{
+	position:absolute;
+	margin-top:65px;
+	margin-left:10px;
+}
+
+#a2{
+	position:absolute;
+	margin-top:60px;
+	margin-left:60px;
+}
+
+#a3{
+	position:absolute;
+	margin-top:100px;
+	margin-left:180px;
+}
+
+#a4{
+	position:absolute;
+	margin-top:130px;
+	margin-left:250px;
+}
+
+#a5{
+	position:absolute;
+	margin-top:155px;
+	margin-left:305px;
+}
+
+#a6{
+	position:absolute;
+	margin-top:175px;
+	margin-left:280px;
+}
+
+#a7{
+	position:absolute;
+	margin-top:150px;
+	margin-left:260px;
+}
+
+
+#a8{
+	position:absolute;
+	margin-top:230px;
+	margin-left:360px;
+}
+
+
+#myProgress {
+    width: 100%;
+    background-color: grey;
+	margin-top:-430px;
+	margin-left:200px;
+}
+#myBar {
+    width: 80%;
+    height: 30px;
+    background-color: green;
+}
+
+
+#myProgress2 {
+    width: 100%;
+    background-color: grey;
+	margin-top:-380px;
+	margin-left:200px;
+}
+#myBar2 {
+    width: 72%;
+    height: 30px;
+    background-color: green;
+}
+#myProgress3 {
+    width: 100%;
+    background-color: grey;
+	margin-top:-330px;
+	margin-left:200px;
+}
+#myBar3 {
+    width: 53%;
+    height: 30px;
+    background-color: green;
+}
+
+#myProgress4 {
+    width: 100%;
+    background-color: grey;
+	margin-top:-280px;
+	margin-left:200px;
+}
+#myBar4 {
+    width: 45%;
+    height: 30px;
+    background-color: green;
+}
+
+#myProgress5 {
+    width: 100%;
+    background-color: grey;
+	margin-top:-230px;
+	margin-left:200px;
+}
+#myBar5 {
+    width: 40%;
+    height: 30px;
+    background-color: green;
+}
+
+#myProgress6 {
+    width: 100%;
+    background-color: grey;
+	margin-top:-180px;
+	margin-left:200px;
+}
+#myBar6 {
+    width: 35%;
+    height: 30px;
+    background-color: green;
+}
+
+#myProgress7 {
+    width: 100%;
+    background-color: grey;
+	margin-top:-130px;
+	margin-left:200px;
+}
+#myBar7 {
+    width: 22%;
+    height: 30px;
+    background-color: green;
+}
+
+#myProgress8 {
+    width: 100%;
+    background-color: grey;
+	margin-top:-80px;
+	margin-left:200px;
+}
+#myBar8 {
+    width: 15%;
+    height: 30px;
+    background-color: green;
+}
+
+#logia4{
+	margin-left:100px;
+	margin-top:-250px;
+	font-size:x-large;
+}
+
+#logia5{
+	margin-left:-180px;
+	margin-top:50px;
+	font-size:x-large;
+	
+}
+
+#nisi1{
+	font-size:x-large;
+	font-family:arial;
+}
+#nisi2{
+	font-size:x-large;
+	font-family:arial;
+}
+#nisi3{
+	font-size:x-large;
+	font-family:arial;
+}
+#nisi4{
+	font-size:x-large;
+	font-family:arial;
+}
+#nisi5{
+	font-size:x-large;
+	font-family:arial;
+}
+#nisi6{
+	font-size:x-large;
+	font-family:arial;
+}
+#nisi7{
+	font-size:x-large;
+	font-family:arial;
+}
+#nisi8{
+	font-size:x-large;
+	font-family:arial;
+	
+}
+
+
+
+

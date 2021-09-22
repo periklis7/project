@@ -1,0 +1,90 @@
+<!DOCTYPE html> 
+<html>
+     
+   <head> 
+       
+		<title>DS Survivor</title> 
+		<meta charset="ISO-8859-7">  
+		<link rel="stylesheet" type="text/css" href="style.css">
+		
+        		
+	</head>
+	<body>
+	    <table id="table1">
+		<tr>
+		  <td>
+	        <a href="SELIDA1.html"><img src="survivor 2017.jpg" alt="survivor" id="logo"></a> 
+	      </td>
+		  <td>
+		     <a href="SELIDA1.html"><b>AΡΧΙΚΗ</b></a>
+		  </td>	 
+		  <td>
+		    <a href="SELIDA2.html"><b>ΔΗΛΩΣΤΕ ΣΥΜΜΕΤΟΧΗ</b></a>
+		  </td>
+		  <td>
+		    <b>VIDEOS</b>
+		  </td>
+		  </table>
+		
+        <table id="table2">
+		<tr>
+			<td id = "td">
+				<img src="Survivor_skin-left-new.jpg" title="dssurvivor" id = "logo2"/>
+			</td>
+			
+			<td>
+			<h1 id ="logia1"><ins>Συμπληρώστε τα προσωπικά σας στοιχεία</ins></h1>
+			<form method="get" action="SELIDA3.html" id ="form1"> 
+				<table> 
+				  <tr>
+				    <td>
+				       Όνομα:<br/><input type="text"name="firstname" required><br/>
+					   Επώνυμο:<br/><input type="text"name="lastname" required><br/>
+				       Ημερομηνία γέννησης:<br/><input type="date"name="birthday" required><br/>
+					   Email:<br/><input type="email"name="email" required><br/>
+					</td>
+				  </tr>
+				  <tr>
+                    <td>
+                        <input type="radio"name="gender"value="male" required>Ανδρας<br/>
+						<input type="radio"name="gender"value="female" required>Γυναίκα					
+			        </td>
+				  </tr>
+				  <tr>
+				    <td>
+					    Ύψος:<br/><input type="text"name="height" required><br/>
+						Βάρος:<br/><input type="text"name="weight" required>
+					</td>
+                  </tr>
+              	  <tr>
+                    <td>
+                        Επάγγελμα:<br/><input type="text"name="epaggelma" required>	
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>Οικογενειακή κατάσταση <br/>
+					
+                        <select name="oik_katastasi" required>
+						<option value=""></option>
+						<option value="married">Έγγαμος</option>
+						<option value="not married">Αγαμος</option>
+						<option value="divorced">Διαζευγμένος</option>
+						</select>
+					</td>
+				  </tr>
+				  <tr>
+				    <td>Επιλέξτε μια φωτογραφία σας: <br/>
+					
+					     <input type="file" name="pic" accept="image/*">
+					</td>
+				  </tr>	
+				</table><br>
+				<button type="submit" id = "btn1">Επόμενο</button>
+				<button type="submit" id = "btn2" form action="SELIDA1.html">Ακύρωση</button>
+			</form>	  
+			</td>
+		</tr>
+        </table>
+        
+    </body>
+</html>	
